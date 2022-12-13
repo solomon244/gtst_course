@@ -15,28 +15,31 @@
 ## Git commands
 
 ### For FIRST TIME
-'''bash
-   git init
-   git config –-global user.name <Your username>
-   git config –-global user.email <Youremail>
-'''
+
+```bash
+git init
+git config –-global user.name <Your username>
+git config –-global user.email <Youremail>
+```
 
 ### FOR NORMAL WORKS
+
 '''bash
-   git status
-   git add .
-   git commit -**‘<YourComment>’** 
+git status
+git add .
+git commit -**‘<YourComment>’** 
 '''
 
 ### check it now
-  '''
-  git log
-  '''
-### FOR GITHUB
 '''
-   git remote add origin <repositoryURL>
-   git push -u origin master
-   git clone <your project link>
+git log
+'''
+### FOR GITHUB
+
+'''
+git remote add origin <repositoryURL>
+git push -u origin master
+git clone <your project link>
 '''
 
 # **Introduction to Ethical Hacking**
