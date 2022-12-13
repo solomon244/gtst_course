@@ -24,23 +24,24 @@ git config –-global user.email <Youremail>
 
 ### FOR NORMAL WORKS
 
-'''bash
+```bash
 git status
 git add .
 git commit -**‘<YourComment>’** 
-'''
+```
 
 ### check it now
-'''
+
+```
 git log
-'''
+```
 ### FOR GITHUB
 
-'''
+```
 git remote add origin <repositoryURL>
 git push -u origin master
 git clone <your project link>
-'''
+```
 
 # **Introduction to Ethical Hacking**
 ## What is hacking?
