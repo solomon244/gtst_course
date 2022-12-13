@@ -4,30 +4,42 @@
 
 ## GIT & GITHUB
 ![git](https://user-images.githubusercontent.com/99808732/207377291-b35dc5f8-b30f-4e87-93b6-f5968acb1215.png)
-> Git is a version control system or tool
-> it is a system to manage your files
-> Saves the file locally or remote server(github/gitlab)
-> GitHub is a Web site/server which your git is hosted on
-> files will be saved infolder called **“REPOSITORY”**
-> GitHub is a Web site/server which your git is hosted on
+  - Git is a version control system or tool
+  - it is a system to manage your files
+  - Saves the file locally or remote server(github/gitlab)
+
+  ![gh](https://user-images.githubusercontent.com/99808732/207377977-0627b3a0-4e6a-4f6d-8475-0cd3b73525b9.png)
+  - GitHub is a Web site/server which your git is hosted on
+  - files will be saved infolder called **“REPOSITORY”**
+  - GitHub is a Web site/server which your git is hosted on
 ## Git commands
 
 ### For FIRST TIME
- > git init
- > git config –-global user.name <Your username>
- > git config –-global user.email <Youremail>
-### FOR NORMAL WORKS
- > git status
- > git add .
- > git commit -‘<YourComment>’ 
-### check it now
- > git log
-### FOR GITHUB
- > git remote add origin <repositoryURL>
- > git push -u origin master
- > git clone <your project link>
+'''bash
+   git init
+   git config –-global user.name <Your username>
+   git config –-global user.email <Youremail>
+'''
 
-# Introduction to Ethical Hacking
+### FOR NORMAL WORKS
+'''bash
+   git status
+   git add .
+   git commit -**‘<YourComment>’** 
+'''
+
+### check it now
+  '''
+  git log
+  '''
+### FOR GITHUB
+'''
+   git remote add origin <repositoryURL>
+   git push -u origin master
+   git clone <your project link>
+'''
+
+# **Introduction to Ethical Hacking**
 ## What is hacking?
 
 - Hacking is referred to exploiting system vulnerabilities
@@ -66,7 +78,7 @@ to the organization
   - Networking
   - Linux
   - System admin
-<<<<<<< HEAD
+
   ## Phases of Hacking
   - Reconnaissance
   - Scanning
@@ -96,6 +108,4 @@ network by simulating an attack to
    - White Box Pentesting
       - Testing system with prior knowledge
    - Grey Box Pentesting
-      - Testing system with Limited knowledge
-=======
->>>>>>> dd0d708b82531eb1b89791b58cf69a7fd8c7e80f
+      - Testing system with Limited knowledge 
