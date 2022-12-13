@@ -1,27 +1,31 @@
 # Ethical Hacking
 
 ## GIT & GITHUB
-> Git is a version control
-system or tool
 
-> GitHub is a Web site/server
-which your git is hosted on
-### Git commands
+![git](https://user-images.githubusercontent.com/99808732/207377291-b35dc5f8-b30f-4e87-93b6-f5968acb1215.png)
+> Git is a version control system or tool
+> it is a system to manage your files
+> Saves the file locally or remote server(github/gitlab)
 
-> For FIRST TIME
- - git init
- - git config –-global user.name <Your username>
- - git config –-global user.email <Youremail>
-> FOR NORMAL WORKS
- - git status
- - git add .
- - git commit -m ‘<Your Comment>’ #you can
-> check it now
- - git log
-> FOR GITHUB
- - git remote add origin <repositoryURL>
- - git push -u origin master
- - git clone <your project link>
+![gh](https://user-images.githubusercontent.com/99808732/207377977-0627b3a0-4e6a-4f6d-8475-0cd3b73525b9.png)
+> files will be saved infolder called **“REPOSITORY”**
+> GitHub is a Web site/server which your git is hosted on
+## Git commands
+
+### For FIRST TIME
+ > git init
+ > git config –-global user.name <Your username>
+ > git config –-global user.email <Youremail>
+### FOR NORMAL WORKS
+ > git status
+ > git add .
+ > git commit -‘<YourComment>’ 
+### check it now
+ > git log
+### FOR GITHUB
+ > git remote add origin <repositoryURL>
+ > git push -u origin master
+ > git clone <your project link>
 
 # Introduction to Ethical Hacking
 ## What is hacking?
@@ -62,3 +66,33 @@ to the organization
   - Networking
   - Linux
   - System admin
+  ## Phases of Hacking
+  - Reconnaissance
+  - Scanning
+  - Gaining Access
+  - Maintaining Access
+  - Clearing Tracks or Logs
+
+  ## Penetration Testing
+
+  - Penetration Testing is a method of evaluating
+the security of an information system or
+network by simulating an attack to
+  - find vulnerability
+  - Security Measures
+  - Documentation and Report Preparation
+
+## Why we need Penetration Testing?
+
+  - Identification of threats
+  - Security Protections and controls
+  - Assessment of Organization's Security
+  - Evaluation of Network Security
+  - Upgradation of Infrastructure
+## Types of Pentesting
+   - Black Box Pentesting
+     - Testing system without prior knowledge
+   - White Box Pentesting
+      - Testing system with prior knowledge
+   - Grey Box Pentesting
+      - Testing system with Limited knowledge
