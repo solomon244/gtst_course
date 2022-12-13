@@ -27,7 +27,7 @@ git config –-global user.email <Youremail>
 ```bash
 git status
 git add .
-git commit -**‘<YourComment>’** 
+git commit -‘<YourComment>’
 ```
 
 ### check it now
