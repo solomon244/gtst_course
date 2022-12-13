@@ -9,19 +9,19 @@ which your git is hosted on
 ### Git commands
 
 > For FIRST TIME
-● git init
-● git config –-global user.name <Your username>
-● git config –-global user.email <Youremail>
+ - git init
+ - git config –-global user.name <Your username>
+ - git config –-global user.email <Youremail>
 > FOR NORMAL WORKS
-● git status
-● git add .
-● git commit -m ‘<Your Comment>’ #you can
-check it now
-● git log
+ - git status
+ - git add .
+ - git commit -m ‘<Your Comment>’ #you can
+> check it now
+ - git log
 > FOR GITHUB
-● git remote add origin <repositoryURL>
-● git push -u origin master
-● git clone <your project link>
+ - git remote add origin <repositoryURL>
+ - git push -u origin master
+ - git clone <your project link>
 
 # Introduction to Ethical Hacking
 ## What is hacking?
