@@ -3,20 +3,11 @@
 ![et ha](https://user-images.githubusercontent.com/99808732/207369861-101b94f7-e615-4503-a568-943356d64759.jpeg)
 
 ## GIT & GITHUB
-
-<<<<<<< HEAD
 ![git](https://user-images.githubusercontent.com/99808732/207377291-b35dc5f8-b30f-4e87-93b6-f5968acb1215.png)
 > Git is a version control system or tool
 > it is a system to manage your files
 > Saves the file locally or remote server(github/gitlab)
-=======
-
-> GitHub is a Web site/server
-which your git is hosted on
-### Git commands
->>>>>>> dd0d708b82531eb1b89791b58cf69a7fd8c7e80f
-
-![gh](https://user-images.githubusercontent.com/99808732/207377977-0627b3a0-4e6a-4f6d-8475-0cd3b73525b9.png)
+> GitHub is a Web site/server which your git is hosted on
 > files will be saved infolder called **“REPOSITORY”**
 > GitHub is a Web site/server which your git is hosted on
 ## Git commands
