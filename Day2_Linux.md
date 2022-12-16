@@ -2,11 +2,14 @@
 ![image](https://user-images.githubusercontent.com/99808732/208126250-253db2fd-89b8-4c23-bc92-d49f2668a4fd.png)
 
   > Linux is a kernel
+
   > Kernel is a code/program that used to meet your Software and Hardware. 
     And allocate some resources.
 # History of Linux
   > “LINUS TORVALDS” Created the Linux kernel. And posted it online to make it open-source
+
   > GNU + LINUX will give the GNU/Linux OS.
+  
   > The GNU Linux project was started to create a Unix-like operating system created with source
     code that could be copied, modified, and redistributed
 
@@ -53,17 +56,17 @@
   
   ## Linux distributions/distro
    
-    - Debian
-      - Kali linux
-      - Ubuntu
-      - Parrot
-    - Arch
-      - Black arch
-      - Garuda
-    - Fedora
-    - Red Hat
-    - Gentoo
-    - Android
+- Debian
+    - Kali linux
+    - Ubuntu
+    - Parrot
+- Arch
+    - Black arch
+    - Garuda
+- Fedora
+- Red Hat
+- Gentoo
+- Android
 
 ## Kali linux
  > Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. 
